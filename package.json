@@ -1,12 +1,12 @@
 {
-  "name": "aws-vue-monorepo-starterkit",
+  "name": "lerna-monorepo-starter-kit",
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
   "author": "Massimo Selvi <massimoselvi@mac.com>",
   "repository": {
     "type": "git",
-    "url": "https://github.com/massimoselvi/aws-vue-monorepo-starterkit.git"
+    "url": "https://github.com/massimoselvi/lerna-monorepo-starter-kit.git"
   },
   "private": true,
   "workspaces": [
@@ -18,8 +18,8 @@
     "lerna": "^3.20.2"
   },
   "config": {
-    "imageRepo": "massimoselvi/aws-vue-monorepo-starterkit",
-    "imageName": "aws-vue-monorepo-starterkit"
+    "imageRepo": "massimoselvi/lerna-monorepo-starter-kit",
+    "imageName": "lerna-monorepo-starter-kit"
   },
   "scripts": {
     "bootstrap": "lerna bootstrap",
